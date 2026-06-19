@@ -7,7 +7,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/portfolio.quinnotto.nl-5b21b6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.quinnotto.nl)
-[![VantaStudio](https://img.shields.io/badge/vantastudio.dev-0a0a0f?style=for-the-badge&logo=rust&logoColor=a78bfa)](https://vantastudio.dev)
+[![ZevynStudio](https://img.shields.io/badge/zevynstudio.dev-0a0a0f?style=for-the-badge&logo=rust&logoColor=a78bfa)](https://zevynstudio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinnotto/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vleesraket-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vleesraket)
 
@@ -21,7 +21,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Vanta Studio](https://vantastudio.dev)
+### [Zevyn Studio](https://zevynstudio.dev)
 Local-first multi-agent AI coding orchestration desktop app. Brief one AI supervisor, it coordinates a fleet of coding agents (Claude Code, Codex, OpenCode) across isolated git worktrees. Spawn, monitor, review and merge without leaving the app.
 
 `Tauri` `Rust` `Svelte` `TypeScript` `SQLite`
@@ -29,8 +29,8 @@ Local-first multi-agent AI coding orchestration desktop app. Brief one AI superv
 </td>
 <td width="50%" valign="top">
 
-### Vanta Agent
-The provider-neutral CLI engine underneath Vanta Studio. One normalized event contract, one interface — regardless of whether Claude or Codex is running behind it.
+### Zevyn Agent
+The provider-neutral CLI engine underneath Zevyn Studio. One normalized event contract, one interface — regardless of whether Claude or Codex is running behind it.
 
 `Node.js` `TypeScript` `Anthropic SDK`
 
@@ -114,8 +114,8 @@ Freelance web development. Full-stack sites, dashboards, and custom tooling — 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Vanta Studio**](https://vantastudio.dev) | Multi-agent AI coding orchestration desktop app | Tauri · Rust · Svelte · SQLite |
-| **Vanta Agent** | Provider-neutral coding agent CLI engine | Node.js · TypeScript · Claude SDK |
+| [**Zevyn Studio**](https://zevynstudio.dev) | Multi-agent AI coding orchestration desktop app | Tauri · Rust · Svelte · SQLite |
+| **Zevyn Agent** | Provider-neutral coding agent CLI engine | Node.js · TypeScript · Claude SDK |
 | **Claw of Duty** | Story-driven 2D top-down action game (Godot 4) | Godot · GDScript |
 | [**quinnotto.nl**](https://quinnotto.nl) | Freelance services site + custom live analytics tracker | Next.js · GSAP · PostgreSQL · Nginx |
 | **QuinnOtto.nl CMS** | Multi-tenant dashboard: TOTP, live visitor map, heatmaps, rich-text editor | Next.js · Leaflet · Recharts · JWT |
