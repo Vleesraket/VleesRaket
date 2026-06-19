@@ -7,7 +7,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/portfolio.quinnotto.nl-5b21b6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.quinnotto.nl)
-[![ZevynStudio](https://img.shields.io/badge/zevynstudio.dev-0a0a0f?style=for-the-badge&logo=rust&logoColor=a78bfa)](https://zevynstudio.dev)
+[![Zevyn](https://img.shields.io/badge/zevyn.dev-0a0a0f?style=for-the-badge&logo=rust&logoColor=a78bfa)](https://zevynstudio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinnotto/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vleesraket-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vleesraket)
 
