@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:5b21b6&height=200&section=header&text=Quinn%20Otto&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Creative%20Software%20Developer%20%E2%80%94%20Building%20tools%20that%20think&descSize=16&descAlignY=58&descColor=a78bfa)](https://portfolio.quinnotto.nl)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:10B981&height=200&section=header&text=Quinn%20Otto&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Creative%20Software%20Developer%20%E2%80%94%20Building%20tools%20that%20think&descSize=16&descAlignY=58&descColor=10B981)](https://portfolio.quinnotto.nl)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Tauri+%2B+Rust+%2B+Svelte+desktop+apps;Multi-agent+AI+orchestration;Next.js+%2B+SvelteKit+full-stack;Game+dev+in+Godot+4;Seeking+internship+%E2%80%94+available+after+summer+2026)](https://portfolio.quinnotto.nl)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Tauri+%2B+Rust+%2B+Svelte+desktop+apps;Multi-agent+AI+orchestration;Next.js+%2B+SvelteKit+full-stack;Game+dev+in+Godot+4;Seeking+internship+%E2%80%94+available+after+summer+2026)](https://portfolio.quinnotto.nl)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio.quinnotto.nl-5b21b6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.quinnotto.nl)
-[![Zevyn](https://img.shields.io/badge/zevyn.dev-0a0a0f?style=for-the-badge&logo=rust&logoColor=a78bfa)](https://zevynstudio.dev)
+[![Portfolio](https://img.shields.io/badge/portfolio.quinnotto.nl-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.quinnotto.nl)
+[![Zevyn](https://img.shields.io/badge/zevyn.dev-0D1117?style=for-the-badge&logo=rust&logoColor=10B981)](https://zevyn.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quinnotto/)
 [![GitHub](https://img.shields.io/badge/GitHub-Vleesraket-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vleesraket)
 
@@ -21,7 +21,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Zevyn Studio](https://zevynstudio.dev)
+### [Zevyn Studio](https://zevyn.dev)
 Local-first multi-agent AI coding orchestration desktop app. Brief one AI supervisor, it coordinates a fleet of coding agents (Claude Code, Codex, OpenCode) across isolated git worktrees. Spawn, monitor, review and merge without leaving the app.
 
 `Tauri` `Rust` `Svelte` `TypeScript` `SQLite`
@@ -104,7 +104,7 @@ Freelance web development. Full-stack sites, dashboards, and custom tooling — 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vleesraket&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vleesraket&theme=tokyonight&hide_border=true&background=0d1117&stroke=10B981&ring=10B981&fire=ff6b6b&currStreakLabel=10B981" />
 
 </div>
 
@@ -114,7 +114,7 @@ Freelance web development. Full-stack sites, dashboards, and custom tooling — 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Zevyn Studio**](https://zevynstudio.dev) | Multi-agent AI coding orchestration desktop app | Tauri · Rust · Svelte · SQLite |
+| [**Zevyn Studio**](https://zevyn.dev) | Multi-agent AI coding orchestration desktop app | Tauri · Rust · Svelte · SQLite |
 | **Zevyn Agent** | Provider-neutral coding agent CLI engine | Node.js · TypeScript · Claude SDK |
 | **Claw of Duty** | Story-driven 2D top-down action game (Godot 4) | Godot · GDScript |
 | [**quinnotto.nl**](https://quinnotto.nl) | Freelance services site + custom live analytics tracker | Next.js · GSAP · PostgreSQL · Nginx |
@@ -135,10 +135,10 @@ Freelance web development. Full-stack sites, dashboards, and custom tooling — 
 
 🔍 *Actively seeking an internship — available after summer 2026*
 
-[![Contact](https://img.shields.io/badge/Get%20in%20touch-quinnotto.nl-5b21b6?style=for-the-badge)](https://quinnotto.nl)
+[![Contact](https://img.shields.io/badge/Get%20in%20touch-quinnotto.nl-10B981?style=for-the-badge)](https://quinnotto.nl)
 
 [![](https://visitcount.itsvg.in/api?id=Vleesraket&icon=6&color=9)](https://visitcount.itsvg.in)
 
 </div>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,100:0a0a0f&height=100&section=footer)](https://portfolio.quinnotto.nl)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0D1117&height=100&section=footer)](https://portfolio.quinnotto.nl)
