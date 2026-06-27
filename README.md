@@ -2,7 +2,7 @@
 
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:10B981&height=200&section=header&text=Quinn%20Otto&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Creative%20Software%20Developer%20%E2%80%94%20Building%20tools%20that%20think&descSize=16&descAlignY=58&descColor=10B981)](https://portfolio.quinnotto.nl)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Tauri+%2B+Rust+%2B+Svelte+desktop+apps;Multi-agent+AI+orchestration;Next.js+%2B+SvelteKit+full-stack;Game+dev+in+Godot+4;Seeking+internship+%E2%80%94+available+after+summer+2026)](https://portfolio.quinnotto.nl)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Tauri+%2B+Rust+%2B+Svelte+desktop+apps;Multi-agent+AI+orchestration;Next.js+%2B+SvelteKit+full-stack;Game+dev+in+Godot+4;)](https://portfolio.quinnotto.nl)
 
 <br/>
 
