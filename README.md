@@ -133,8 +133,6 @@ Freelance web development. Full-stack sites, dashboards, and custom tooling — 
 
 **18 · Maassluis, Netherlands · Creative Software Development @ Grafisch Lyceum Rotterdam**
 
-🔍 *Actively seeking an internship — available after summer 2026*
-
 [![Contact](https://img.shields.io/badge/Get%20in%20touch-quinnotto.nl-10B981?style=for-the-badge)](https://quinnotto.nl)
 
 [![](https://visitcount.itsvg.in/api?id=Vleesraket&icon=6&color=9)](https://visitcount.itsvg.in)
